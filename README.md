@@ -1,2 +1,2 @@
-# proiject
+# project
 fifth project
